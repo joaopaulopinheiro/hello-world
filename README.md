@@ -1,2 +1,2 @@
 # hello-world
-Apenas um estudante que é apaixonado por programação e suas vertentes.
+Este é um repositório para praticar o fluxo do Github.
